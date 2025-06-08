@@ -66,12 +66,12 @@
 **软件生存周期**：一个软件从提出开发要求开始直到该软件报废为止的整个时期。 
 包括：可行性分析和项目开发计划，需求分析，概要设计，详细设计，编码，测试，维护。
 
-![[软件生命周期.png]]
+![软件生命周期.png](https://github.com/Vks-Feng/WHU-SE-Summer-2025/blob/main/attachments/%E8%BD%AF%E4%BB%B6%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.png)
 
 ## 软件质量
 
 **McCall模型**
-![[McCall.png]]
+![McCall.png](https://github.com/Vks-Feng/WHU-SE-Summer-2025/blob/main/attachments/McCall.png)
 - 三个维度
 	- 产品运行：操作特性
 	- 产品修改：承受变更的能力
@@ -79,12 +79,12 @@
 - 11个软件质量因素
 
 **Gavin模型**（八个质量维度）
-![[Gavin模型.png]]
+![Gavin模型.png](https://github.com/Vks-Feng/WHU-SE-Summer-2025/blob/main/attachments/Gavin%E6%A8%A1%E5%9E%8B.png)
 - 性能、特征、可靠性、符合性、耐用性、适用性、美学、感知
 
 **ISO25010质量模型**
 
-![[ISO25010质量模型.png]]
+![ISO25010质量模型.png](https://github.com/Vks-Feng/WHU-SE-Summer-2025/blob/main/attachments/ISO25010%E8%B4%A8%E9%87%8F%E6%A8%A1%E5%9E%8B.png)
 
 ## 软件质量保证（Software Quality Assurance）
 
